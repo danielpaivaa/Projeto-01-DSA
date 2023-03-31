@@ -1,0 +1,12 @@
+1 - Definir a palavra secreta
+2 - Inicializar uma lista vazia de letras já adivinhadas pelo jogador
+3 - Definir a quantidade de tentativas disponíveis
+4 - Enquanto o jogador tiver tentativas restantes e a palavra secreta não tiver sido adivinhada:
+    4.1 - Mostrar ao jogador a palavra secreta com as letras já adivinhadas preenchidas e as demais letras ocultas
+    4.2 - Pedir ao jogador para adivinhar uma letra
+    4.3 - Verificar se a letra adivinhada está na palavra secreta
+    4.4 - Se a letra estiver na palavra secreta, adicionar a letra à lista de letras adivinhadas
+    4.5 - Se a letra não estiver na palavra secreta, diminuir o número de tentativas restantes
+    4.6 - Verificar se o jogador adivinhou todas as letras da palavra secreta
+    4.7 - Se o jogador tiver adivinhado todas as letras, mostrar uma mensagem de vitória
+    4.8 - Se o jogador não tiver mais tentativas restantes, mostrar uma mensagem de derrota.
